@@ -16,7 +16,7 @@ Links:
 ### **About**
 8 months of software development.
 
-- Have backend development experience (Golang/Python), which helps me to understand overall product architecture and communicate with backend team
+- Have backend development experience (Golang/Python/Swift), which helps me to understand overall product architecture and communicate with backend team
 - Love good architecture and clear naming of things
 - Can propose new features/solutions for business, estimate and write docs for them
 - Could lead a small team of developers (gathering information, preparing tasks, code review)
