@@ -54,6 +54,15 @@ Links:
   [ Look more](https://github.com/mightyK1ngRichard/MissionControlCenterInterfaceIOS)
 <br/>
 
+* #### **RealTimeMessenger**
+
+  _iOS application | Course work, Network technologies x BMSTU_
+  
+  _Stack_: SwiftUI, Vapor, WebSocket+Http protocol
+
+  [ Look more](https://github.com/mightyK1ngRichard/RealTimeMessenger-iOS)
+<br/>
+
 * #### **WoodGrowthCourseWorkSwiftUI**
 
   _Macos application | Database coursework x BMSTU_
@@ -69,7 +78,7 @@ Links:
   
   _Stack_: UIKit, SwiftUI, Firebase, Go, Postgresql
 
-  [ Look more](https://github.com/iOS-vk-education/2023_1_CakesHub)
+  [ Look more](https://github.com/mightyK1ngRichard/VK-iOS-CakesHub-UIKit)
 <br/>
 
 * #### **DevelopmentNetworkApplicationBackend**
