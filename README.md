@@ -14,7 +14,7 @@ Links:
   <summary> Open resume </summary>
   
 ### **About**
-5 months of software development.
+8 months of software development.
 
 - Have backend development experience (Golang/Python), which helps me to understand overall product architecture and communicate with backend team
 - Love good architecture and clear naming of things
@@ -23,10 +23,10 @@ Links:
 
 ### **Tech Stack**
 - **iOS**: 
-  - Swift, SwiftUI, UIKit, Figma, Proxyman
+  - Swift, SwiftUI, UIKit, Vapor, Figma, Proxyman
   - Viper, MVC, MVP, MVVM/MVVM-C, CleanSwift
 - **Programming languages**: Swift, Golang, Python, C/C++, JavaScript, TypeScript
-- **Backend**: Golang, Django, NodeJS General Linux/Unix command-line experience, Some Amazon AWS products (S3), PostgreSQL, Postman, Swagger
+- **Backend**: Golang, Swift+Vapor, Django, NodeJS, WebSocket, General Linux/Unix command-line experience, Some Amazon AWS products (S3), PostgreSQL, Postman, Swagger
 - **Frontend**: React, JavaScript, TypeScript, CSS/HTML5, Redux Toolkit
 - **DevOps**: Ubuntu/Alt Server, Docker, Nginx
 - **Database**: Postgresql, Firebase, Mongodb, Realm, Redis
