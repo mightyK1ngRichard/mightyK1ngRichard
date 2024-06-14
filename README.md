@@ -14,7 +14,7 @@ Links:
   <summary> Open resume </summary>
   
 ### **About**
-8 months of software development.
+11 months of software development.
 
 - Have backend development experience (Golang/Python/Swift), which helps me to understand overall product architecture and communicate with backend team
 - Love good architecture and clear naming of things
@@ -23,13 +23,14 @@ Links:
 
 ### **Tech Stack**
 - **iOS**: 
-  - Swift, SwiftUI, UIKit, Vapor, Figma, Proxyman
+  - Swift, SwiftUI, UIKit, Vapor, SwiftData, Local Push Notifications, Figma, Proxyman, GCD/Async Await
   - Viper, MVC, MVP, MVVM/MVVM-C, CleanSwift
 - **Programming languages**: Swift, Golang, Python, C/C++, JavaScript, TypeScript
 - **Backend**: Golang, Swift+Vapor, Django, NodeJS, WebSocket, General Linux/Unix command-line experience, Some Amazon AWS products (S3), PostgreSQL, Postman, Swagger
 - **Frontend**: React, JavaScript, TypeScript, CSS/HTML5, Redux Toolkit
 - **DevOps**: Ubuntu/Alt Server, Docker, Nginx
-- **Database**: Postgresql, Firebase, Mongodb, Realm, Redis
+- **Database**: Postgresql, Firebase, Mongodb, Realm, Redis, SwiftData
+- **Application Layer**: HTTP, WebSocket
 
 ### **Employment history**
 | Period | Description |
@@ -44,6 +45,14 @@ Links:
 | 2022 - 2023 | Digital Academy x BMSTU |
 
 ### **Work examples (apps)**
+
+* #### **CakesHub**
+  _iOS application | VK x BMSTU_
+  
+    _Stack_: SwiftUI, Firebase, SwiftData, MapKit, LocalPushNotification, WebSocket, Vapor, Async/await
+    
+      [ Look more](https://github.com/mightyK1ngRichard/VK-iOS-Marketplace)
+<br/>
 
 * #### **MissionControlCenterInterfaceIOS**
 
@@ -72,15 +81,6 @@ Links:
   [ Look more](https://github.com/mightyK1ngRichard/WoodGrowthCourseWorkSwiftUI)
 <br/>
 
-* #### **CakesHub**
-
-  _iOS application | VK project_
-  
-  _Stack_: UIKit, SwiftUI, Firebase, Go, Postgresql
-
-  [ Look more](https://github.com/mightyK1ngRichard/VK-iOS-CakesHub-UIKit)
-<br/>
-
 * #### **DevelopmentNetworkApplicationBackend**
 
   _FullStack Application Go+React+SwiftUI | Laboratory work x BMSTU_
@@ -88,15 +88,6 @@ Links:
   _Stack_: SwiftUI, Golang, Docker, Nginx, S3, Redis, Postgresql, RestAPI, Gin, Gorm, Swagger, React, Redux Toolkit
 
   [ Look more](https://github.com/mightyK1ngRichard/DevelopmentNetworkApplicationBackend)
-<br/>
-
-* #### **K1ngSocialMedia**
-
-  _iOS application | Personal project_
-  
-  _Stack_: SwiftUI, Golang, Docker, Firebase, Postgresql, RestAPI
-
-  [ Look more](https://github.com/mightyK1ngRichard/K1ngSocialMedia)
 <br/>
 
 * #### **DevelopmentNetworkApplicationMobile**
