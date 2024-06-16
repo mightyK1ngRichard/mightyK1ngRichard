@@ -51,7 +51,7 @@ Links:
   
     _Stack_: SwiftUI, Firebase, SwiftData, MapKit, LocalPushNotification, WebSocket, Vapor, Async/await
     
-      [ Look more](https://github.com/mightyK1ngRichard/VK-iOS-Marketplace)
+    [ Look more](https://github.com/mightyK1ngRichard/VK-iOS-Marketplace)
 <br/>
 
 * #### **MissionControlCenterInterfaceIOS**
