@@ -14,7 +14,7 @@ Links:
   <summary> Open resume </summary>
   
 ### **About**
-11 months of software development.
+1 year of software development.
 
 - Have backend development experience (Golang/Python/Swift), which helps me to understand overall product architecture and communicate with backend team
 - Love good architecture and clear naming of things
@@ -23,9 +23,9 @@ Links:
 
 ### **Tech Stack**
 - **iOS**: 
-  - Swift, SwiftUI, UIKit, Vapor, SwiftData, Local Push Notifications, Figma, Proxyman, GCD/Async Await
+  - Swift, SwiftUI, UIKit, Combine, Vapor, SwiftData, Local Push Notifications, Figma, Proxyman, GCD/Async Await
   - Viper, MVC, MVP, MVVM/MVVM-C, CleanSwift
-- **Programming languages**: Swift, Golang, Python, C/C++, JavaScript, TypeScript
+- **Programming languages**: Swift, Golang, Python, C/C++, JavaScript, TypeScript, Assembler
 - **Backend**: Golang, Swift+Vapor, Django, NodeJS, WebSocket, General Linux/Unix command-line experience, Some Amazon AWS products (S3), PostgreSQL, Postman, Swagger
 - **Frontend**: React, JavaScript, TypeScript, CSS/HTML5, Redux Toolkit
 - **DevOps**: Ubuntu/Alt Server, Docker, Nginx
@@ -47,7 +47,7 @@ Links:
 ### **Work examples (apps)**
 
 * #### **CakesHub**
-  _iOS application | VK x BMSTU_
+  _iOS application | Diploma Project | VK Edu x BMSTU_
   
     _Stack_: SwiftUI, Firebase, SwiftData, MapKit, LocalPushNotification, WebSocket, Vapor, Async/await
     
@@ -118,5 +118,3 @@ Links:
 <br/>
 
 </details>
-
-<!-- <img align="right" src="" width="110"/>   -->
