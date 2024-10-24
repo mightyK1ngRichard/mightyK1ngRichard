@@ -14,7 +14,7 @@ Links:
   <summary> Open resume </summary>
   
 ### **About**
-1 year of software development.
+1.5 year of software development.
 
 - Have backend development experience (Golang/Python/Swift), which helps me to understand overall product architecture and communicate with backend team
 - Love good architecture and clear naming of things
@@ -23,19 +23,20 @@ Links:
 
 ### **Tech Stack**
 - **iOS**: 
-  - Swift, SwiftUI, UIKit, Combine, Vapor, SwiftData, Local Push Notifications, Figma, Proxyman, GCD/Async Await
-  - Viper, MVC, MVP, MVVM/MVVM-C, CleanSwift
+  - Swift, SwiftUI, UIKit, Vapor, SwiftData, CreateML/CoreML, ARKit, AVFoundation, GCD/Async Await/Combine, Local Push Notifications + Figma, Proxyman
+  - Viper, MVC, MVP, MVVM/MVVM-C, CleanSwift, Flux
 - **Programming languages**: Swift, Golang, Python, C/C++, JavaScript, TypeScript, Assembler
-- **Backend**: Golang, Swift+Vapor, Django, NodeJS, WebSocket, General Linux/Unix command-line experience, Some Amazon AWS products (S3), PostgreSQL, Postman, Swagger
+- **Backend**: Golang, Swift+Vapor, Django, NodeJS, General Linux/Unix command-line experience + Postman, Swagger
 - **Frontend**: React, JavaScript, TypeScript, CSS/HTML5, Redux Toolkit
-- **DevOps**: Ubuntu/Alt Server, Docker, Nginx
-- **Database**: Postgresql, Firebase, Mongodb, Realm, Redis, SwiftData
-- **Application Layer**: HTTP, WebSocket
+- **DevOps**: Ubuntu/Alt Server, Docker, Nginx, CI/CD
+- **Database**: Postgresql, Firebase, Mongodb, Realm, Redis, SwiftData, Amazon S3
+- **Client Server Interaction**: HTTP/1.1, WebSocket, gRPC
+- **API Architectural style**: Rest, gRPC
 
 ### **Employment history**
 | Period | Description |
 | - | - |
-| July 2023 — Now | Junior iOS Developer at Wildberries |
+| July 2023 — Now | Junior+ iOS Developer at Wildberries |
 
 ### **Education**
 | Period | Description |
@@ -67,18 +68,9 @@ Links:
 
   _iOS application | Course work, Network technologies x BMSTU_
   
-  _Stack_: SwiftUI, Vapor, WebSocket+Http protocol
+  _Stack_: SwiftUI, Vapor, WebSocket+HTTP
 
   [ Look more](https://github.com/mightyK1ngRichard/RealTimeMessenger-iOS)
-<br/>
-
-* #### **WoodGrowthCourseWorkSwiftUI**
-
-  _Macos application | Database coursework x BMSTU_
-  
-  _Stack_: SwiftUI, NodeJS, Docker, Postgresql
-
-  [ Look more](https://github.com/mightyK1ngRichard/WoodGrowthCourseWorkSwiftUI)
 <br/>
 
 * #### **DevelopmentNetworkApplicationBackend**
@@ -90,31 +82,22 @@ Links:
   [ Look more](https://github.com/mightyK1ngRichard/DevelopmentNetworkApplicationBackend)
 <br/>
 
-* #### **DevelopmentNetworkApplicationMobile**
+* #### **SmokingDetectionApplication**
 
-  _iOS application | Laboratory work x BMSTU_
+  _iOS Video streaming Application | Homework x BMSTU_
   
-  _Stack_: SwiftUI, Golang, Docker, Nginx, S3, Redis, Postgresql, RestAPI
+  _Stack_: UIKit, AVFoundation, CreateML, CoreML, Vision
 
-  [ Look more](https://github.com/mightyK1ngRichard/DevelopmentNetworkApplicationMobile)
+  [ Look more](https://github.com/mightyK1ngRichard/SmokingDetectionApplication/tree/main)
 <br/>
 
-* #### **AppleWatchApp**
+* #### **WoodGrowthCourseWorkSwiftUI**
 
-  _Apple watch application | Personal project_
+  _Macos application | Database coursework x BMSTU_
   
-  _Stack_: SwiftUI, Realm
+  _Stack_: SwiftUI, NodeJS, Docker, Postgresql
 
-  [ Look more](https://github.com/mightyK1ngRichard/AppleWatchApp)
-<br/>
-
-* #### **DjangoApplication**
-
-  _Django application | Diploma project x BMSTU x Digital Academy_
-  
-  _Stack_: Django, Firebase, Docker, Nginx
-
-  [ Look more](https://github.com/mightyK1ngRichard/DjangoApplication)
+  [ Look more](https://github.com/mightyK1ngRichard/WoodGrowthCourseWorkSwiftUI)
 <br/>
 
 </details>
