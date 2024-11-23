@@ -1,4 +1,4 @@
-<img align="right" src="Resources/owl.png" height="260px"/>  
+<img align="right" src="Resources/logo.png" height="260px"/>  
 
 ### **iOS Developer**
 _Moscow, Russia_
