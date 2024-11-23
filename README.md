@@ -1,4 +1,4 @@
-<img align="right" src="Resources/logo.png" height="250px" style="margin-right: 10px; margin-bottom: 10px;"/>
+<img align="right" src="Resources/logo.png" height="250px" style="margin-right: 40px; margin-bottom: 10px;"/>
 
 ### **iOS Developer**
 _Moscow, Russia_
