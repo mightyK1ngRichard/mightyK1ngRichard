@@ -28,7 +28,7 @@ Links:
 - **Programming languages**: Swift, Golang, Kotlin, Python, C/C++, JavaScript, TypeScript, Assembler
 - **Backend**: Golang, Swift+Vapor, Kotlin Ktor, Django, NodeJS, General Linux/Unix command-line experience + Postman, Swagger
 - **Frontend**: React, JavaScript, TypeScript, CSS/HTML5, Redux Toolkit
-- **DevOps**: Ubuntu/Alt Server, Docker, Nginx, CI/CD, K8s
+- **DevOps**: Ubuntu/Alt Server, Docker, Nginx, CI/CD, K8s, grafana
 - **Database**: Postgresql, Firebase, Mongodb, Realm, Redis, SwiftData, Amazon S3
 - **Client Server Interaction**: HTTP/1.1, WebSocket, gRPC HTTP/2.0
 - **API Architectural style**: Rest, gRPC
