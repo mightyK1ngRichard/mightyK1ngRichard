@@ -14,7 +14,7 @@ Links:
   <summary> Open resume </summary>
   
 ### **About**
-1.5 year of software development.
+2 year of software development.
 
 - Have backend development experience (Golang/Python/Swift), which helps me to understand overall product architecture and communicate with backend team
 - Love good architecture and clear naming of things
@@ -25,12 +25,12 @@ Links:
 - **iOS**: 
   - Swift, SwiftUI, UIKit, Vapor, SwiftData, CreateML/CoreML, ARKit, AVFoundation, GCD/Async Await/Combine, Local Push Notifications + Figma, Proxyman
   - Viper, MVC, MVP, MVVM/MVVM-C, CleanSwift, Flux
-- **Programming languages**: Swift, Golang, Python, C/C++, JavaScript, TypeScript, Assembler
-- **Backend**: Golang, Swift+Vapor, Django, NodeJS, General Linux/Unix command-line experience + Postman, Swagger
+- **Programming languages**: Swift, Golang, Kotlin, Python, C/C++, JavaScript, TypeScript, Assembler
+- **Backend**: Golang, Swift+Vapor, Kotlin Ktor, Django, NodeJS, General Linux/Unix command-line experience + Postman, Swagger
 - **Frontend**: React, JavaScript, TypeScript, CSS/HTML5, Redux Toolkit
-- **DevOps**: Ubuntu/Alt Server, Docker, Nginx, CI/CD
+- **DevOps**: Ubuntu/Alt Server, Docker, Nginx, CI/CD, K8s
 - **Database**: Postgresql, Firebase, Mongodb, Realm, Redis, SwiftData, Amazon S3
-- **Client Server Interaction**: HTTP/1.1, WebSocket, gRPC
+- **Client Server Interaction**: HTTP/1.1, WebSocket, gRPC HTTP/2.0
 - **API Architectural style**: Rest, gRPC
 
 ### **Employment history**
@@ -46,6 +46,20 @@ Links:
 | 2022 - 2023 | Digital Academy x BMSTU |
 
 ### **Work examples (apps)**
+
+* #### **Торт&Land**
+  _FullStack Application | Final qualifying work | BMSTU IU5 2025_
+  
+    _Stack_: 
+    - Languages: Swift, GoLang, Kotlin, NodeJS
+    - Backend Microsevices: Kotlin, GoLang, Swift + Vapor, NodeJS.
+      - Auth: JWT Refresh Tokens + Black list
+      - Database: PostgresSQL, Firebase, Amazon S3
+      - Client-server API Architectural style: gRPC
+    - IOS features: SwiftUI, MapKit, SwiftData, LocalPushNotification, WebSocket, Async/await, ARKit, Video Streaming M3U8D
+    
+    [ Look more](https://github.com/mightyK1ngRichard/bmstu-2025-final-qualifying-work)
+<br/>
 
 * #### **CakesHub**
   _iOS application | Diploma Project | VK Edu x BMSTU_
