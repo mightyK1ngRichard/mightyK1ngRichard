@@ -1,6 +1,6 @@
 <img align="right" src="Resources/logo.png" height="250px" style="margin-right: 40px; margin-bottom: 10px;"/>
 
-### **iOS Developer**
+### **Middle iOS Developer**
 _Moscow, Russia_
 
 Links:
@@ -14,7 +14,7 @@ Links:
   <summary> Open resume </summary>
   
 ### **About**
-2 year of software development.
+2.5 year of software development. BMSTU IU5 graduated, 25'
 
 - Have backend development experience (Golang/Python/Swift), which helps me to understand overall product architecture and communicate with backend team
 - Love good architecture and clear naming of things
@@ -23,7 +23,7 @@ Links:
 
 ### **Tech Stack**
 - **iOS**: 
-  - Swift, SwiftUI, UIKit, Vapor, SwiftData, CreateML/CoreML, ARKit, AVFoundation, GCD/Async Await/Combine, Local Push Notifications + Figma, Proxyman
+  - Swift, SwiftUI, UIKit, Vapor, SwiftData, CreateML/CoreML, ARKit, AVFoundation, GCD/Async Await/Combine, DI Resolver, Proxyman, Tuist
   - Viper, MVC, MVP, MVVM/MVVM-C, CleanSwift, Flux
 - **Programming languages**: Swift, Golang, Kotlin, Python, C/C++, JavaScript, TypeScript, Assembler
 - **Backend**: Golang, Swift+Vapor, Kotlin Ktor, Django, NodeJS, General Linux/Unix command-line experience + Postman, Swagger
@@ -36,7 +36,7 @@ Links:
 ### **Employment history**
 | Period | Description |
 | - | - |
-| July 2023 — Now | Junior+ iOS Developer at Wildberries |
+| July 2023 — Now | Middle iOS Developer at Wildberries, B2B Bank |
 
 ### **Education**
 | Period | Description |
@@ -51,7 +51,7 @@ Links:
   _FullStack Application | Final qualifying work | BMSTU IU5 2025_
   
     _Stack_: 
-    - Languages: Swift, GoLang, Kotlin, NodeJS
+    - Languages: Swift, GoLang, Kotlin
     - Backend Microsevices: Kotlin, GoLang, Swift + Vapor, NodeJS.
       - Auth: JWT Refresh Tokens + Black list
       - Database: PostgresSQL, Firebase, Amazon S3
