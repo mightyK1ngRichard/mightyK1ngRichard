@@ -52,13 +52,15 @@ Links:
   
     _Stack_: 
     - Languages: Swift, GoLang, Kotlin
-    - Backend Microsevices: Kotlin, GoLang, Swift + Vapor, NodeJS.
+    - Backend Microsevices: Kotlin, GoLang, Swift + Vapor.
       - Auth: JWT Refresh Tokens + Black list
       - Database: PostgresSQL, Firebase, Amazon S3
       - Client-server API Architectural style: gRPC
     - IOS features: SwiftUI, MapKit, SwiftData, LocalPushNotification, WebSocket, Async/await, ARKit, Video Streaming M3U8D
     
-    [ Look more](https://github.com/mightyK1ngRichard/bmstu-2025-final-qualifying-work)
+    [ Look more [IOS+MacOS]](https://github.com/mightyK1ngRichard/bmstu-2025-final-qualifying-work)
+
+    [ Look more [Go Backend]](https://github.com/mightyK1ngRichard/bmstu-2025-final-qualifying-work-backend-go)
 <br/>
 
 * #### **CakesHub**
