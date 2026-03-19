@@ -1,6 +1,6 @@
 <img align="right" src="Resources/logo.png" height="250px" style="margin-right: 40px; margin-bottom: 10px;"/>
 
-### **Middle iOS Developer**
+### **Lead iOS Developer**
 _Moscow, Russia_
 
 Links:
