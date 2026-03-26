@@ -14,35 +14,47 @@ Links:
   <summary> Open resume </summary>
   
 ### **About**
-2.5 year of software development. BMSTU IU5 graduated, 25'
+3 years of software development. BMSTU IU5, Bachelor's graduate (2025), currently pursuing Master's degree.
 
 - Have backend development experience (Golang/Python/Swift), which helps me to understand overall product architecture and communicate with backend team
 - Love good architecture and clear naming of things
 - Can propose new features/solutions for business, estimate and write docs for them
-- Could lead a small team of developers (gathering information, preparing tasks, code review)
+- Lead a team of developers (gathering information, preparing tasks, code review)
+- Currently exploring **Machine Learning / AI**: PyTorch, CNNs, LLM integration, on‑device ML with CoreML
 
 ### **Tech Stack**
 - **iOS**: 
-  - Swift, SwiftUI, UIKit, Vapor, SwiftData, CreateML/CoreML, ARKit, AVFoundation, GCD/Async Await/Combine, DI Resolver, Proxyman, Tuist
-  - Viper, MVC, MVP, MVVM/MVVM-C, CleanSwift, Flux
-- **Programming languages**: Swift, Golang, Kotlin, Python, C/C++, JavaScript, TypeScript, Assembler
-- **Backend**: Golang, Swift+Vapor, Kotlin Ktor, Django, NodeJS, General Linux/Unix command-line experience + Postman, Swagger
+  - SwiftUI, UIKit
+  - Vapor, CreateML/CoreML, ARKit, AVFoundation 
+  - SwiftData, Realm, SQLite
+  - GCD, Swift Concurrency
+  - Resolver, Needle, SwiftInject
+  - Tuist, SPM, Targets
+  - MVVM-C, VIPER, MVC, MVP, CleanSwift, Flux
+- **Machine Learning / AI**:
+  - PyTorch, TensorFlow, CoreML, CreateML
+  - CNN, Transformers, RNN/LSTM
+  - YOLO, ONNX, Vision (Apple)
+- **Programming languages**: Swift, Golang, Java, Kotlin, Python, C/C++, JavaScript, TypeScript, Assembler
+- **Backend**: Golang, Swift+Vapor, Java Spring, Kotlin Ktor, Python Django/Flask, NodeJS
 - **Frontend**: React, JavaScript, TypeScript, CSS/HTML5, Redux Toolkit
 - **DevOps**: Ubuntu/Alt Server, Docker, Nginx, CI/CD, K8s, grafana
-- **Database**: Postgresql, Firebase, Mongodb, Realm, Redis, SwiftData, Amazon S3
+- **Database**: Postgresql, Firebase, Mongodb, Redis, Amazon S3, Kafka
 - **Client Server Interaction**: HTTP/1.1, WebSocket, gRPC HTTP/2.0
 - **API Architectural style**: Rest, gRPC
 
 ### **Employment history**
 | Period | Description |
 | - | - |
-| July 2023 — Now | Middle iOS Developer at Wildberries, B2B Bank |
+| April 2026 — Now | Chief Development Engineer at Sberbank |
+| July 2023 — March 2026 | Middle+ iOS Developer at Wildberries, B2B Bank |
 
 ### **Education**
 | Period | Description |
 | - | - |
-| 2021 - 2025 | Bauman Moscow State University, IU5 |
-| 2023 - 2024 | VK Technopark (iOS) x BMSTU |
+| 2025 - 2027 | Master's Degree, Bauman Moscow State University, IU5 |
+| 2021 - 2025 | Bachelor's Degree, Bauman Moscow State University, IU5 |
+| 2023 - 2024 | Technopark VK x BMSTU |
 | 2022 - 2023 | Digital Academy x BMSTU |
 
 ### **Work examples (apps)**
